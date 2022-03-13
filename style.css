@@ -57,7 +57,7 @@ canvas {
 
 #tools > div {
 	display: block;
-	background-image: url('textures/72-textures.png');
+	background-image: url('img/textures/72-textures.png');
 	background-repeat: no-repeat;
 	background-size: auto;
 	width: 130px;

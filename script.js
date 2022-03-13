@@ -6,7 +6,7 @@ const $c = _ => document.createElement(_)
 let canvas, bg, fg, cf, ntiles, tileWidth, tileHeight, map, tools, tool, activeTool, isPlacing
 
 const texture = new Image()
-texture.src = "textures/72-textures.png"
+texture.src = "img/textures/72-textures.png"
 texture.onload = _ => init()
 
 const init = () => {
